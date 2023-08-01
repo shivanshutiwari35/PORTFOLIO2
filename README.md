@@ -7,10 +7,6 @@
 - [Usage](#usage)
 - [Support These Projects](#support-these-projects)
 
-## Overview
-
-A simple python project where we use price data from the NASDAQ website to help
-optimize our portfolio of stocks using modern portfolio theory.
 
 ## Setup
 
@@ -51,11 +47,3 @@ price_history_client.price_data_frame.to_csv(
 )
 pprint(price_history_client.price_data_frame)
 ```
-
-## Support These Projects
-
-**Patreon:**
-Help support this project and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding). I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
-
-**YouTube:**
-If you'd like to watch more of my content, feel free to visit my YouTube channel [Sigma Coding](https://www.youtube.com/c/SigmaCoding).
